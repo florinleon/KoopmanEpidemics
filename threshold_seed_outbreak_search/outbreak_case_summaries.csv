@@ -1,0 +1,7 @@
+case_index,seed,baseline_is_outbreak,baseline_final_attack_rate,baseline_peak_infected,baseline_peak_day,outbreak_threshold,searched,controlled_by_single_intervention,n_counterfactuals_completed,n_prevented_outbreak,best_attack_rate_reduction,best_agent_id,best_day
+1,0,1,0.58,142,48,0.3,1,1,2765,1,0.578,69,4
+2,5,1,0.656,142,46,0.3,1,1,16770,1,0.42000000000000004,419,9
+3,8,1,0.506,151,59,0.3,1,1,9966,1,0.5,249,5
+4,9,1,0.562,111,43,0.3,1,1,4366,1,0.56,109,5
+5,14,1,0.768,208,45,0.3,1,0,20000,0,0.10999999999999999,34,5
+6,16,1,0.354,102,58,0.3,1,1,1446,1,0.35,36,5

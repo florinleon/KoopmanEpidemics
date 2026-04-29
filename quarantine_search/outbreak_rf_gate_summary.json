@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "model_dir": "rf_outbreak_model",
+  "model_file": "rf_outbreak_model\\outbreak_random_forest.joblib",
+  "feature_names_file": "rf_outbreak_model\\feature_names.json",
+  "history_days": 5,
+  "end_day": 12,
+  "probability_threshold": 0.2,
+  "predicted_outbreak_probability": 0.27269780709457925,
+  "predicted_outbreak": 1,
+  "raw_model_predicted_label": 0,
+  "n_model_features": 145,
+  "n_missing_features": 9,
+  "n_missing_koopman_features": 9,
+  "missing_features_preview": [
+    "koopman_attack_rate_pred",
+    "koopman_boundary_score",
+    "koopman_p_major",
+    "koopman_z0",
+    "koopman_z1",
+    "koopman_z2",
+    "koopman_z3",
+    "koopman_z4",
+    "koopman_z5"
+  ],
+  "warning": "Some model features were unavailable and were filled with zero. This is expected for Koopman latent features unless they are computed for this baseline."
+}

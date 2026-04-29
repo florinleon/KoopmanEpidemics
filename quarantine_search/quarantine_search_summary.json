@@ -1,0 +1,15 @@
+{
+  "n_agents_requested": 500,
+  "n_days_requested": 40,
+  "n_counterfactuals_completed": 18500,
+  "baseline": {
+    "n_days_recorded": 37,
+    "final_susceptible": 488,
+    "final_attack_rate": 0.024,
+    "peak_infected": 10,
+    "peak_day": 15
+  },
+  "outbreak_threshold": 0.3,
+  "n_prevented_outbreak": 0,
+  "best_attack_rate_reduction": 0.014
+}

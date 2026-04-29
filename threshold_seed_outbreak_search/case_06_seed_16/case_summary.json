@@ -1,0 +1,16 @@
+{
+  "case_index": 6,
+  "seed": 16,
+  "baseline_is_outbreak": 1,
+  "baseline_final_attack_rate": 0.354,
+  "baseline_peak_infected": 102,
+  "baseline_peak_day": 58,
+  "outbreak_threshold": 0.3,
+  "searched": 1,
+  "controlled_by_single_intervention": 1,
+  "n_counterfactuals_completed": 1446,
+  "n_prevented_outbreak": 1,
+  "best_attack_rate_reduction": 0.35,
+  "best_agent_id": 36,
+  "best_day": 5
+}

@@ -1,0 +1,7 @@
+{
+  "n_days_recorded": 60,
+  "final_susceptible": 219,
+  "final_attack_rate": 0.562,
+  "peak_infected": 111,
+  "peak_day": 43
+}

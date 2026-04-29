@@ -1,0 +1,19 @@
+seed,rf_screen_error,rf_predicted_outbreak,rf_probability,rf_probability_threshold,rf_history_days,rf_end_day,rf_missing_features,rf_missing_koopman_features,rf_screen_skipped,full_baseline_verified,baseline_is_outbreak,baseline_final_attack_rate,baseline_peak_infected,baseline_peak_day,searched,controlled_by_single_intervention,n_counterfactuals_completed,n_prevented_outbreak,best_attack_rate_reduction,case_dir,skip_reason
+0,,1,0.3732352235385042,0.2,5,12,9,9,0,1,1,0.58,142,48,1,1,2765,1,0.578,threshold_seed_outbreak_search\case_01_seed_0,
+1,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.,0,0.0,0.2,,,,,0,0,,,,,0,,,,,,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.
+2,,0,0.0,0.2,5,12,9,9,0,0,,,,,0,,,,,,rf_predicted_no_outbreak
+3,,1,0.39995727310462076,0.2,5,12,9,9,0,1,0,0.12,29,52,0,0,0,0,0.0,threshold_seed_outbreak_search\case_02_seed_3,full_baseline_not_outbreak
+4,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.,0,0.0,0.2,,,,,0,0,,,,,0,,,,,,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.
+5,,1,0.37594473870322015,0.2,5,12,9,9,0,1,1,0.656,142,46,1,1,16770,1,0.42000000000000004,threshold_seed_outbreak_search\case_02_seed_5,
+6,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.,0,0.0,0.2,,,,,0,0,,,,,0,,,,,,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.
+7,,0,0.0,0.2,5,12,9,9,0,0,,,,,0,,,,,,rf_predicted_no_outbreak
+8,,1,0.38675412129246356,0.2,5,12,9,9,0,1,1,0.506,151,59,1,1,9966,1,0.5,threshold_seed_outbreak_search\case_03_seed_8,
+9,,1,0.38862537573734857,0.2,5,12,9,9,0,1,1,0.562,111,43,1,1,4366,1,0.56,threshold_seed_outbreak_search\case_04_seed_9,
+10,,1,0.32720614999714104,0.2,5,12,9,9,0,1,0,0.024,11,15,0,0,0,0,0.0,threshold_seed_outbreak_search\case_05_seed_10,full_baseline_not_outbreak
+11,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.,0,0.0,0.2,,,,,0,0,,,,,0,,,,,,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.
+12,,1,0.37997088649798455,0.2,5,12,9,9,0,1,0,0.018,8,19,0,0,0,0,0.0,threshold_seed_outbreak_search\case_05_seed_12,full_baseline_not_outbreak
+13,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.,0,0.0,0.2,,,,,0,0,,,,,0,,,,,,Outbreak RF prediction end day 12 is unavailable; baseline only recorded days 0 through 11.
+14,,1,0.38426090197610263,0.2,5,12,9,9,0,1,1,0.768,208,45,1,0,20000,0,0.10999999999999999,threshold_seed_outbreak_search\case_05_seed_14,
+15,,0,0.16488024427762962,0.2,5,12,9,9,0,0,,,,,0,,,,,,rf_predicted_no_outbreak
+16,,1,0.41824032038532705,0.2,5,12,9,9,0,1,1,0.354,102,58,1,1,1446,1,0.35,threshold_seed_outbreak_search\case_06_seed_16,
+17,,0,0.0,0.2,5,12,9,9,0,0,,,,,0,,,,,,rf_predicted_no_outbreak
