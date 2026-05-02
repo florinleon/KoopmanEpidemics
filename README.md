@@ -1,4 +1,4 @@
-# KoopmanEpidemics
+# Koopman Epidemics
 
 The project studies early outbreak detection and intervention selection in a multi-agent epidemic simulation. It combines agent-based epidemic dynamics, Koopman-inspired representation learning, supervised outbreak classification, and counterfactual mobility interventions to analyze trajectories near tipping boundaries.
 
@@ -17,10 +17,6 @@ A Koopman-inspired latent representation is used to encode aggregate epidemic ob
 - Counterfactual intervention analysis based on paired baseline and intervention simulations.
 - Evaluation of final attack rate, peak infection burden, forecast structure, classifier performance, and intervention effects.
 - Reproducible experimentation through configurable parameters and fixed random seeds.
-
-## Research Context
-
-The repository is intended for research on complex-system tipping behavior, early-warning indicators, Koopman operator learning, agent-based epidemic modeling, and intervention selection. The epidemic model is synthetic and should be interpreted as a controlled computational testbed rather than a calibrated public-health decision system.
 
 ## Typical Workflow
 
