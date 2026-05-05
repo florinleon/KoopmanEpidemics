@@ -34,7 +34,7 @@ A typical experimental workflow consists of:
 
 A detailed description of the architecture and examples can be found in this paper:
 
-> Florin Leon, *Koopman Representations for Early Outbreak Warning and Minimal Counterfactual Intervention in Multi-Agent Epidemic Simulations*, 2026
+> Florin Leon, *Koopman Representations for Early Outbreak Warning and Minimal Counterfactual Intervention in Multi-Agent Epidemic Simulations*, 2026, https://arxiv.org/abs/2605.01803 .
 
 ## Note
 
